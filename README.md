@@ -42,7 +42,7 @@ Our repositories use a GitHub App to:
 
 - [SECURITY.md](https://github.com/Fiercexontan-Ops/.github/blob/main/SECURITY.md) — Responsible disclosure
 - [SUPPORT.md](https://github.com/Fiercexontan-Ops/.github/blob/main/SUPPORT.md) — How to get help
-- CONTRIBUTING.md — Contribution rules
+- [CONTRIBUTING](https://github.com/Fiercexontan-Ops/.github/blob/main/CONTRIBUTING.md) — Contribution rules
 
 ---
 
