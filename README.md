@@ -40,8 +40,8 @@ Our repositories use a GitHub App to:
 
 ## 📄 Documentation
 
-- [SECURITY.md](https://github.com/Fiercexontan-Ops/.github/blob/main/SECURITY.md) — Responsible disclosure
-- [SUPPORT.md](https://github.com/Fiercexontan-Ops/.github/blob/main/SUPPORT.md) — How to get help
+- [SECURITY](https://github.com/Fiercexontan-Ops/.github/blob/main/SECURITY.md) — Responsible disclosure
+- [SUPPORT](https://github.com/Fiercexontan-Ops/.github/blob/main/SUPPORT.md) — How to get help
 - [CONTRIBUTING](https://github.com/Fiercexontan-Ops/.github/blob/main/CONTRIBUTING.md) — Contribution rules
 
 ---
