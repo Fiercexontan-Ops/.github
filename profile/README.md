@@ -54,7 +54,7 @@ Our repositories use a GitHub App (`interact-ops-action`) to:
 - Defined escalation paths
 - Maintainer accountability
 
-📄 See: [MAINTAINERS.md](https://github.com/Fiercexontan-Ops/Support/blob/main/MAINTAINERS.md)
+📄 See: [MAINTAINERS.md](https://github.com/Fiercexontan-Ops/.github/blob/main/MAINTAINERS.md)
 
 ---
 ## 📬 Contact
