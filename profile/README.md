@@ -1,6 +1,6 @@
-# Fiercexontan Ops
+# Fiercexontan-ORG
 
-**Official GitHub organization for Fiercexontan Ops**
+**Official GitHub organization for Fiercexontan-ORG**
 
 ---
 
@@ -63,4 +63,4 @@ Our repositories use a GitHub App (`interact-ops-action`) to:
 
 ---
 
-© Fiercexontan.Ops — Professional crypto support, built on trust.
+© Fiercexontan-ORG — Professional crypto support, built on trust.
