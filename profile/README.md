@@ -6,7 +6,7 @@
 
 ## About Us
 
-Fiercexontan.Ops is a professional GitHub organization focused on crypto, blockchain, and decentralized technology support.
+Fiercexontan-ORG is a professional GitHub organization focused on crypto, blockchain, and decentralized technology support.
 
 We combine **automation, structured workflows, and human expertise** to triage and resolve issues safely and efficiently.
 
